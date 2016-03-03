@@ -13,3 +13,7 @@ long some_function();
           test2 = other_function();
     return test2;
 }
+
+{
+ADD_HERE;
+}
